@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**cynthia-lam/cynthia-lam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 My name is Cynthia and I'm a graduate student studying biomedical engineering. I've been interested in coding for so long, but I never had a clue where to start!
 - 🌱 With the help of the internet and a lot of dedication, I've been learning Python and JavaScript.
@@ -12,4 +10,8 @@ Here are some ideas to get you started:
 - 📫 I'm open to internships! I am a fast learner and an adaptive worker. I thrive in supportive and challenging environments.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to climb and do pole exercise in my spare time!
+
+
+<!--
+**cynthia-lam/cynthia-lam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
