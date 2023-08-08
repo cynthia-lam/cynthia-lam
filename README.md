@@ -3,13 +3,11 @@
 
 
 
-- 🔭 My name is Cynthia and I'm a graduate student studying biomedical engineering. 
-- 🌱 With the help of the internet and a lot of dedication, I've been learning Python and JavaScript.
-- 👯 I hope to be able to use these newfound skills in my field to better medical technology and perhaps even enter the AI in healthcare space!
-- 🤔 I’m looking for help with any suggestions for beginner to intermediate projects to help me learn the languages. 
-- 📫 I'm open to internships! I am a fast learner and an adaptive worker. I thrive in supportive and challenging environments.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to climb and do pole exercise in my spare time!
+- 🔭 My name is Cynthia and I just graduated with a degree in biomedical engineering
+- 🌱 I've always been interested in the intersection of health and technology, and how we can use AI and automation to overcome challenges in healthcare
+- 👯 I'm currently in IDRF's sixth cohort of Women in Tech, where I hope to learn the skills needed to launch a career in AI/health tech
+- 😄 My pronouns are she/her
+- ⚡ Fun fact - I love bouldering and I'm learning to tattoo in my spare time!
 
 
 <!--
